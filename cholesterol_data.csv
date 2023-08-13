@@ -1,0 +1,219 @@
+age,sex,chest_pain_type,resting_bp,fasting_blood_sugar,rest_ecg,max_heart_rate,exercise_angina,st_depression,st_slope,num_major_vessels,thalassemia,disease_status,cholesterol
+63,male,typical angina,145,true,left ventricular hypertrophy,150,no,2.3,3,0,fixed defect,<50% diameter narrowing,233
+67,male,asymptomatic,120,false,left ventricular hypertrophy,129,yes,2.6,2,2,reversable defect,>50% diameter narrowing,229
+37,male,non-anginal pain,130,false,normal,187,no,3.5,3,0,normal,<50% diameter narrowing,250
+41,female,atypical angina,130,false,left ventricular hypertrophy,172,no,1.4,1,0,normal,<50% diameter narrowing,204
+56,male,atypical angina,120,false,normal,178,no,0.8,1,0,normal,<50% diameter narrowing,236
+57,female,asymptomatic,120,false,normal,163,yes,0.6,1,0,normal,<50% diameter narrowing,354
+53,male,asymptomatic,140,true,left ventricular hypertrophy,155,yes,3.1,3,0,reversable defect,>50% diameter narrowing,203
+57,male,asymptomatic,140,false,normal,148,no,0.4,2,0,fixed defect,<50% diameter narrowing,192
+56,female,atypical angina,140,false,left ventricular hypertrophy,153,no,1.3,2,0,normal,<50% diameter narrowing,294
+44,male,atypical angina,120,false,normal,173,no,0.0,1,0,reversable defect,<50% diameter narrowing,263
+52,male,non-anginal pain,172,true,normal,162,no,0.5,1,0,reversable defect,<50% diameter narrowing,199
+57,male,non-anginal pain,150,false,normal,174,no,1.6,1,0,normal,<50% diameter narrowing,168
+48,male,atypical angina,110,false,normal,168,no,1.0,3,0,reversable defect,>50% diameter narrowing,229
+54,male,asymptomatic,140,false,normal,160,no,1.2,1,0,normal,<50% diameter narrowing,239
+48,female,non-anginal pain,130,false,normal,139,no,0.2,1,0,normal,<50% diameter narrowing,275
+49,male,atypical angina,130,false,normal,171,no,0.6,1,0,normal,<50% diameter narrowing,266
+64,male,typical angina,110,false,left ventricular hypertrophy,144,yes,1.8,2,0,normal,<50% diameter narrowing,211
+58,female,typical angina,150,true,left ventricular hypertrophy,162,no,1.0,1,0,normal,<50% diameter narrowing,283
+58,male,atypical angina,120,false,left ventricular hypertrophy,160,no,1.8,2,0,normal,>50% diameter narrowing,284
+50,female,non-anginal pain,120,false,normal,158,no,1.6,2,0,normal,<50% diameter narrowing,219
+58,female,non-anginal pain,120,false,normal,172,no,0.0,1,0,normal,<50% diameter narrowing,340
+66,female,typical angina,150,false,normal,114,no,2.6,3,0,normal,<50% diameter narrowing,226
+43,male,asymptomatic,150,false,normal,171,no,1.5,1,0,normal,<50% diameter narrowing,247
+69,female,typical angina,140,false,normal,151,no,1.8,1,2,normal,<50% diameter narrowing,239
+64,male,non-anginal pain,140,false,normal,158,no,0.0,1,0,normal,>50% diameter narrowing,335
+59,male,asymptomatic,135,false,normal,161,no,0.5,2,0,reversable defect,<50% diameter narrowing,234
+44,male,non-anginal pain,130,false,normal,179,yes,0.4,1,0,normal,<50% diameter narrowing,233
+42,male,asymptomatic,140,false,normal,178,no,0.0,1,0,normal,<50% diameter narrowing,226
+57,male,asymptomatic,150,false,left ventricular hypertrophy,112,yes,0.6,2,1,fixed defect,>50% diameter narrowing,276
+61,male,non-anginal pain,150,true,normal,137,yes,1.0,2,0,normal,<50% diameter narrowing,243
+40,male,typical angina,140,false,normal,178,yes,1.4,1,0,reversable defect,<50% diameter narrowing,199
+71,female,atypical angina,160,false,normal,162,no,0.4,1,2,normal,<50% diameter narrowing,302
+59,male,non-anginal pain,150,true,normal,157,no,1.6,1,0,normal,<50% diameter narrowing,212
+61,female,asymptomatic,130,false,left ventricular hypertrophy,169,no,0.0,1,0,normal,>50% diameter narrowing,330
+51,male,non-anginal pain,110,false,normal,123,no,0.6,1,0,normal,<50% diameter narrowing,175
+65,female,non-anginal pain,140,true,left ventricular hypertrophy,157,no,0.8,1,1,normal,<50% diameter narrowing,417
+53,male,non-anginal pain,130,true,left ventricular hypertrophy,152,no,1.2,3,0,normal,<50% diameter narrowing,197
+41,female,atypical angina,105,false,normal,168,no,0.0,1,1,normal,<50% diameter narrowing,198
+65,male,asymptomatic,120,false,normal,140,no,0.4,1,0,reversable defect,<50% diameter narrowing,177
+44,male,atypical angina,130,false,left ventricular hypertrophy,188,no,0.0,1,0,normal,<50% diameter narrowing,219
+60,male,asymptomatic,130,false,normal,144,yes,1.4,1,1,reversable defect,>50% diameter narrowing,253
+54,male,asymptomatic,124,false,left ventricular hypertrophy,109,yes,2.2,2,1,reversable defect,>50% diameter narrowing,266
+50,male,non-anginal pain,140,false,normal,163,no,0.6,2,1,reversable defect,>50% diameter narrowing,233
+41,male,asymptomatic,110,false,left ventricular hypertrophy,158,no,0.0,1,0,reversable defect,>50% diameter narrowing,172
+54,male,non-anginal pain,125,false,left ventricular hypertrophy,152,no,0.5,3,1,normal,<50% diameter narrowing,273
+51,male,typical angina,125,false,left ventricular hypertrophy,125,yes,1.4,1,1,normal,<50% diameter narrowing,213
+46,female,non-anginal pain,142,false,left ventricular hypertrophy,160,yes,1.4,3,0,normal,<50% diameter narrowing,177
+58,male,asymptomatic,128,false,left ventricular hypertrophy,131,yes,2.2,2,3,reversable defect,>50% diameter narrowing,216
+54,female,non-anginal pain,135,true,normal,170,no,0.0,1,0,normal,<50% diameter narrowing,304
+60,male,non-anginal pain,140,false,left ventricular hypertrophy,155,no,3.0,2,0,normal,>50% diameter narrowing,185
+54,male,non-anginal pain,150,false,left ventricular hypertrophy,165,no,1.6,1,0,reversable defect,<50% diameter narrowing,232
+46,male,non-anginal pain,150,false,normal,147,no,3.6,2,0,normal,>50% diameter narrowing,231
+65,female,non-anginal pain,155,false,normal,148,no,0.8,1,0,normal,<50% diameter narrowing,269
+62,male,asymptomatic,120,false,normal,99,yes,1.8,2,2,reversable defect,>50% diameter narrowing,267
+65,male,asymptomatic,110,false,left ventricular hypertrophy,158,no,0.6,1,2,fixed defect,>50% diameter narrowing,248
+44,male,asymptomatic,110,false,left ventricular hypertrophy,177,no,0.0,1,1,normal,>50% diameter narrowing,197
+65,female,non-anginal pain,160,false,left ventricular hypertrophy,151,no,0.8,1,0,normal,<50% diameter narrowing,360
+60,male,asymptomatic,125,false,left ventricular hypertrophy,141,yes,2.8,2,1,reversable defect,>50% diameter narrowing,258
+51,female,non-anginal pain,140,false,left ventricular hypertrophy,142,no,1.5,1,1,normal,<50% diameter narrowing,308
+48,male,atypical angina,130,false,left ventricular hypertrophy,180,no,0.2,2,0,normal,<50% diameter narrowing,245
+45,male,asymptomatic,104,false,left ventricular hypertrophy,148,yes,3.0,2,0,normal,<50% diameter narrowing,208
+53,female,asymptomatic,130,false,left ventricular hypertrophy,143,no,0.4,2,0,normal,<50% diameter narrowing,264
+39,male,non-anginal pain,140,false,left ventricular hypertrophy,182,no,0.0,1,0,normal,<50% diameter narrowing,321
+52,male,atypical angina,120,false,normal,172,no,0.2,1,0,normal,<50% diameter narrowing,325
+44,male,non-anginal pain,140,false,left ventricular hypertrophy,180,no,0.0,1,0,normal,<50% diameter narrowing,235
+47,male,non-anginal pain,138,false,left ventricular hypertrophy,156,no,0.0,1,0,normal,<50% diameter narrowing,257
+53,female,asymptomatic,138,false,left ventricular hypertrophy,160,no,0.0,1,0,normal,<50% diameter narrowing,234
+51,female,non-anginal pain,130,false,left ventricular hypertrophy,149,no,0.5,1,0,normal,<50% diameter narrowing,256
+66,male,asymptomatic,120,false,left ventricular hypertrophy,151,no,0.4,2,0,normal,<50% diameter narrowing,302
+62,male,non-anginal pain,130,false,normal,146,no,1.8,2,3,reversable defect,<50% diameter narrowing,231
+44,female,non-anginal pain,108,false,normal,175,no,0.6,2,0,normal,<50% diameter narrowing,141
+63,female,non-anginal pain,135,false,left ventricular hypertrophy,172,no,0.0,1,0,normal,<50% diameter narrowing,252
+52,male,asymptomatic,128,false,normal,161,yes,0.0,1,1,reversable defect,>50% diameter narrowing,255
+52,male,atypical angina,134,false,normal,158,no,0.8,1,1,normal,<50% diameter narrowing,201
+48,male,asymptomatic,122,false,left ventricular hypertrophy,186,no,0.0,1,0,normal,<50% diameter narrowing,222
+45,male,asymptomatic,115,false,left ventricular hypertrophy,185,no,0.0,1,0,normal,<50% diameter narrowing,260
+34,male,typical angina,118,false,left ventricular hypertrophy,174,no,0.0,1,0,normal,<50% diameter narrowing,182
+57,female,asymptomatic,128,false,left ventricular hypertrophy,159,no,0.0,1,1,normal,<50% diameter narrowing,303
+71,female,non-anginal pain,110,true,left ventricular hypertrophy,130,no,0.0,1,1,normal,<50% diameter narrowing,265
+54,male,atypical angina,108,false,normal,156,no,0.0,1,0,reversable defect,<50% diameter narrowing,309
+57,male,non-anginal pain,128,false,left ventricular hypertrophy,150,no,0.4,2,1,reversable defect,>50% diameter narrowing,229
+61,female,asymptomatic,145,false,left ventricular hypertrophy,146,yes,1.0,2,0,reversable defect,>50% diameter narrowing,307
+56,male,asymptomatic,125,true,left ventricular hypertrophy,144,yes,1.2,2,1,normal,>50% diameter narrowing,249
+52,male,typical angina,118,false,left ventricular hypertrophy,190,no,0.0,2,0,fixed defect,<50% diameter narrowing,186
+41,male,atypical angina,135,false,normal,132,no,0.0,2,0,fixed defect,<50% diameter narrowing,203
+58,male,non-anginal pain,140,true,left ventricular hypertrophy,165,no,0.0,1,0,normal,<50% diameter narrowing,211
+35,female,asymptomatic,138,false,normal,182,no,1.4,1,0,normal,<50% diameter narrowing,183
+51,male,non-anginal pain,100,false,normal,143,yes,1.2,2,0,normal,<50% diameter narrowing,222
+65,male,typical angina,138,true,left ventricular hypertrophy,174,no,1.4,2,1,normal,>50% diameter narrowing,282
+45,female,atypical angina,130,false,left ventricular hypertrophy,175,no,0.6,2,0,normal,<50% diameter narrowing,234
+44,male,atypical angina,120,false,normal,170,no,0.0,1,0,normal,<50% diameter narrowing,220
+62,female,asymptomatic,124,false,normal,163,no,0.0,1,0,normal,<50% diameter narrowing,209
+54,male,non-anginal pain,120,false,left ventricular hypertrophy,147,no,0.4,2,0,reversable defect,<50% diameter narrowing,258
+51,male,non-anginal pain,94,false,normal,154,yes,0.0,1,1,reversable defect,<50% diameter narrowing,227
+29,male,atypical angina,130,false,left ventricular hypertrophy,202,no,0.0,1,0,normal,<50% diameter narrowing,204
+51,male,asymptomatic,140,false,left ventricular hypertrophy,186,yes,0.0,1,0,normal,<50% diameter narrowing,261
+43,female,non-anginal pain,122,false,normal,165,no,0.2,2,0,normal,<50% diameter narrowing,213
+55,female,atypical angina,135,false,left ventricular hypertrophy,161,no,1.4,2,0,normal,<50% diameter narrowing,250
+35,male,asymptomatic,120,false,normal,130,yes,1.6,2,0,reversable defect,>50% diameter narrowing,198
+51,male,non-anginal pain,125,true,left ventricular hypertrophy,166,no,2.4,2,0,normal,<50% diameter narrowing,245
+59,male,atypical angina,140,false,normal,164,yes,0.0,1,0,normal,<50% diameter narrowing,221
+59,male,typical angina,170,false,left ventricular hypertrophy,159,no,0.2,2,0,reversable defect,>50% diameter narrowing,288
+52,male,atypical angina,128,true,normal,184,no,0.0,1,0,normal,<50% diameter narrowing,205
+64,male,non-anginal pain,125,false,normal,131,yes,1.8,2,0,reversable defect,>50% diameter narrowing,309
+58,male,non-anginal pain,105,false,left ventricular hypertrophy,154,yes,0.6,2,0,reversable defect,<50% diameter narrowing,240
+47,male,non-anginal pain,108,false,normal,152,no,0.0,1,0,normal,>50% diameter narrowing,243
+41,male,non-anginal pain,112,false,normal,179,no,0.0,1,0,normal,<50% diameter narrowing,250
+45,male,atypical angina,128,false,left ventricular hypertrophy,170,no,0.0,1,0,normal,<50% diameter narrowing,308
+60,female,non-anginal pain,102,false,normal,160,no,0.0,1,1,normal,<50% diameter narrowing,318
+52,male,typical angina,152,true,normal,178,no,1.2,2,0,reversable defect,<50% diameter narrowing,298
+42,female,asymptomatic,102,false,left ventricular hypertrophy,122,no,0.6,2,0,normal,<50% diameter narrowing,265
+67,female,non-anginal pain,115,false,left ventricular hypertrophy,160,no,1.6,2,0,reversable defect,<50% diameter narrowing,564
+70,male,asymptomatic,130,false,left ventricular hypertrophy,109,no,2.4,2,3,normal,>50% diameter narrowing,322
+51,male,asymptomatic,140,false,normal,173,yes,1.6,1,0,reversable defect,>50% diameter narrowing,299
+58,male,asymptomatic,125,false,left ventricular hypertrophy,171,no,0.0,1,2,reversable defect,>50% diameter narrowing,300
+68,male,non-anginal pain,118,false,normal,151,no,1.0,1,1,reversable defect,<50% diameter narrowing,277
+46,male,atypical angina,101,true,normal,156,no,0.0,1,0,reversable defect,<50% diameter narrowing,197
+54,female,non-anginal pain,110,false,normal,158,no,1.6,2,0,normal,<50% diameter narrowing,214
+58,female,asymptomatic,100,false,left ventricular hypertrophy,122,no,1.0,2,0,normal,<50% diameter narrowing,248
+48,male,non-anginal pain,124,true,normal,175,no,0.0,1,2,normal,<50% diameter narrowing,255
+57,male,asymptomatic,132,false,normal,168,yes,0.0,1,0,reversable defect,<50% diameter narrowing,207
+52,male,non-anginal pain,138,false,normal,169,no,0.0,1,?,normal,<50% diameter narrowing,223
+54,female,atypical angina,132,true,left ventricular hypertrophy,159,yes,0.0,1,1,normal,<50% diameter narrowing,288
+35,male,asymptomatic,126,false,left ventricular hypertrophy,156,yes,0.0,1,0,reversable defect,>50% diameter narrowing,282
+45,female,atypical angina,112,false,normal,138,no,0.0,2,0,normal,<50% diameter narrowing,160
+53,male,asymptomatic,142,false,left ventricular hypertrophy,111,yes,0.0,1,0,reversable defect,<50% diameter narrowing,226
+59,female,asymptomatic,174,false,normal,143,yes,0.0,2,0,normal,>50% diameter narrowing,249
+62,female,asymptomatic,140,false,left ventricular hypertrophy,157,no,1.2,2,0,normal,<50% diameter narrowing,394
+57,male,asymptomatic,152,false,normal,88,yes,1.2,2,1,reversable defect,>50% diameter narrowing,274
+52,male,asymptomatic,108,true,normal,147,no,0.1,1,3,reversable defect,<50% diameter narrowing,233
+56,male,asymptomatic,132,false,left ventricular hypertrophy,105,yes,2.1,2,1,fixed defect,>50% diameter narrowing,184
+43,male,non-anginal pain,130,false,normal,162,no,1.9,1,1,normal,<50% diameter narrowing,315
+53,male,non-anginal pain,130,true,left ventricular hypertrophy,173,no,0.0,1,3,normal,<50% diameter narrowing,246
+42,male,typical angina,148,false,left ventricular hypertrophy,178,no,0.8,1,2,normal,<50% diameter narrowing,244
+59,male,typical angina,178,false,left ventricular hypertrophy,145,no,4.2,3,0,reversable defect,<50% diameter narrowing,270
+60,female,asymptomatic,158,false,left ventricular hypertrophy,161,no,0.0,1,0,normal,>50% diameter narrowing,305
+63,female,atypical angina,140,false,normal,179,no,0.0,1,2,normal,<50% diameter narrowing,195
+42,male,non-anginal pain,120,true,normal,194,no,0.8,3,0,reversable defect,<50% diameter narrowing,240
+54,male,atypical angina,192,false,left ventricular hypertrophy,195,no,0.0,1,1,reversable defect,>50% diameter narrowing,283
+50,male,non-anginal pain,129,false,normal,163,no,0.0,1,0,normal,<50% diameter narrowing,196
+43,male,asymptomatic,132,true,left ventricular hypertrophy,143,yes,0.1,2,?,reversable defect,>50% diameter narrowing,247
+68,female,non-anginal pain,120,false,left ventricular hypertrophy,115,no,1.5,2,0,normal,<50% diameter narrowing,211
+69,male,typical angina,160,true,left ventricular hypertrophy,131,no,0.1,2,1,normal,<50% diameter narrowing,234
+45,female,asymptomatic,138,false,left ventricular hypertrophy,152,yes,0.2,2,0,normal,<50% diameter narrowing,236
+50,female,atypical angina,120,false,normal,162,no,1.1,1,0,normal,<50% diameter narrowing,244
+59,male,typical angina,160,false,left ventricular hypertrophy,125,no,0.0,1,0,normal,>50% diameter narrowing,273
+50,female,asymptomatic,110,false,left ventricular hypertrophy,159,no,0.0,1,0,normal,<50% diameter narrowing,254
+64,female,asymptomatic,180,false,normal,154,yes,0.0,1,0,normal,<50% diameter narrowing,325
+57,male,non-anginal pain,150,true,normal,173,no,0.2,1,1,reversable defect,<50% diameter narrowing,126
+64,female,non-anginal pain,140,false,normal,133,no,0.2,1,0,reversable defect,<50% diameter narrowing,313
+43,male,asymptomatic,110,false,normal,161,no,0.0,1,0,reversable defect,<50% diameter narrowing,211
+55,male,atypical angina,130,false,normal,155,no,0.0,1,0,normal,<50% diameter narrowing,262
+62,female,asymptomatic,150,false,normal,154,yes,1.4,2,0,normal,>50% diameter narrowing,244
+37,female,non-anginal pain,120,false,normal,170,no,0.0,1,0,normal,<50% diameter narrowing,215
+41,male,non-anginal pain,130,false,left ventricular hypertrophy,168,no,2.0,2,0,normal,<50% diameter narrowing,214
+52,male,asymptomatic,112,false,normal,160,no,0.0,1,1,normal,>50% diameter narrowing,230
+56,male,typical angina,120,false,left ventricular hypertrophy,162,no,1.9,2,0,reversable defect,<50% diameter narrowing,193
+46,female,atypical angina,105,false,normal,172,no,0.0,1,0,normal,<50% diameter narrowing,204
+46,female,asymptomatic,138,false,left ventricular hypertrophy,152,yes,0.0,2,0,normal,<50% diameter narrowing,243
+64,female,asymptomatic,130,false,normal,122,no,2.0,2,2,normal,<50% diameter narrowing,303
+59,male,asymptomatic,138,false,left ventricular hypertrophy,182,no,0.0,1,0,normal,<50% diameter narrowing,271
+41,female,non-anginal pain,112,false,left ventricular hypertrophy,172,yes,0.0,1,0,normal,<50% diameter narrowing,268
+54,female,non-anginal pain,108,false,left ventricular hypertrophy,167,no,0.0,1,0,normal,<50% diameter narrowing,267
+39,female,non-anginal pain,94,false,normal,179,no,0.0,1,0,normal,<50% diameter narrowing,199
+63,female,asymptomatic,108,false,normal,169,yes,1.8,2,2,normal,>50% diameter narrowing,269
+34,female,atypical angina,118,false,normal,192,no,0.7,1,0,normal,<50% diameter narrowing,210
+47,male,asymptomatic,112,false,normal,143,no,0.1,1,0,normal,<50% diameter narrowing,204
+67,female,non-anginal pain,152,false,normal,172,no,0.0,1,1,normal,<50% diameter narrowing,277
+52,female,non-anginal pain,136,false,left ventricular hypertrophy,169,no,0.1,2,0,normal,<50% diameter narrowing,196
+49,male,non-anginal pain,118,false,left ventricular hypertrophy,126,no,0.8,1,3,normal,>50% diameter narrowing,149
+74,female,atypical angina,120,false,left ventricular hypertrophy,121,yes,0.2,1,1,normal,<50% diameter narrowing,269
+54,female,non-anginal pain,160,false,normal,163,no,0.0,1,1,normal,<50% diameter narrowing,201
+46,male,asymptomatic,120,false,left ventricular hypertrophy,144,no,0.8,1,0,reversable defect,>50% diameter narrowing,249
+49,female,atypical angina,134,false,normal,162,no,0.0,2,0,normal,<50% diameter narrowing,271
+42,male,atypical angina,120,false,normal,162,no,0.0,1,0,normal,<50% diameter narrowing,295
+41,male,atypical angina,110,false,normal,153,no,0.0,1,0,normal,<50% diameter narrowing,235
+41,female,atypical angina,126,false,normal,163,no,0.0,1,0,normal,<50% diameter narrowing,306
+49,female,asymptomatic,130,false,normal,163,no,0.0,1,0,normal,<50% diameter narrowing,269
+60,female,non-anginal pain,120,true,normal,96,no,0.0,1,0,normal,<50% diameter narrowing,178
+47,male,asymptomatic,110,false,left ventricular hypertrophy,118,yes,1.0,2,1,normal,>50% diameter narrowing,275
+62,male,atypical angina,128,true,left ventricular hypertrophy,140,no,0.0,1,0,normal,<50% diameter narrowing,208
+57,male,asymptomatic,110,false,normal,126,yes,1.5,2,0,fixed defect,<50% diameter narrowing,201
+58,male,asymptomatic,146,false,normal,105,no,2.0,2,1,reversable defect,>50% diameter narrowing,218
+64,male,asymptomatic,128,false,normal,105,yes,0.2,2,1,reversable defect,<50% diameter narrowing,263
+51,female,non-anginal pain,120,false,left ventricular hypertrophy,157,no,0.6,1,0,normal,<50% diameter narrowing,295
+43,male,asymptomatic,115,false,normal,181,no,1.2,2,0,normal,<50% diameter narrowing,303
+42,female,non-anginal pain,120,false,normal,173,no,0.0,2,0,normal,<50% diameter narrowing,209
+67,female,asymptomatic,106,false,normal,142,no,0.3,1,2,normal,<50% diameter narrowing,223
+76,female,non-anginal pain,140,false,ST-T wave abnormality,116,no,1.1,2,0,normal,<50% diameter narrowing,197
+70,male,atypical angina,156,false,left ventricular hypertrophy,143,no,0.0,1,0,normal,<50% diameter narrowing,245
+57,male,atypical angina,124,false,normal,141,no,0.3,1,0,reversable defect,>50% diameter narrowing,261
+44,female,non-anginal pain,118,false,normal,149,no,0.3,2,1,normal,<50% diameter narrowing,242
+60,female,typical angina,150,false,normal,171,no,0.9,1,0,normal,<50% diameter narrowing,240
+44,male,non-anginal pain,120,false,normal,169,no,0.0,1,0,normal,<50% diameter narrowing,226
+40,male,asymptomatic,152,false,normal,181,no,0.0,1,0,reversable defect,>50% diameter narrowing,223
+42,male,non-anginal pain,130,false,normal,150,no,0.0,1,0,normal,<50% diameter narrowing,180
+61,male,asymptomatic,140,false,left ventricular hypertrophy,138,yes,1.9,1,1,reversable defect,>50% diameter narrowing,207
+66,male,asymptomatic,160,false,left ventricular hypertrophy,138,no,2.3,1,0,fixed defect,<50% diameter narrowing,228
+71,female,asymptomatic,112,false,normal,125,no,1.6,2,0,normal,<50% diameter narrowing,149
+59,male,typical angina,134,false,normal,162,no,0.8,1,2,normal,>50% diameter narrowing,204
+64,male,typical angina,170,false,left ventricular hypertrophy,155,no,0.6,2,0,reversable defect,<50% diameter narrowing,227
+66,female,non-anginal pain,146,false,left ventricular hypertrophy,152,no,0.0,2,1,normal,<50% diameter narrowing,278
+39,female,non-anginal pain,138,false,normal,152,no,0.0,2,0,normal,<50% diameter narrowing,220
+57,male,atypical angina,154,false,left ventricular hypertrophy,164,no,0.0,1,1,normal,>50% diameter narrowing,232
+58,female,asymptomatic,130,false,normal,131,no,0.6,2,0,normal,<50% diameter narrowing,197
+47,male,non-anginal pain,130,false,normal,179,no,0.0,1,0,normal,<50% diameter narrowing,253
+35,male,atypical angina,122,false,normal,174,no,0.0,1,0,normal,<50% diameter narrowing,192
+58,male,atypical angina,125,false,normal,144,no,0.4,2,?,reversable defect,<50% diameter narrowing,220
+56,male,atypical angina,130,false,left ventricular hypertrophy,163,no,0.0,1,0,reversable defect,<50% diameter narrowing,221
+56,male,atypical angina,120,false,normal,169,no,0.0,3,0,normal,<50% diameter narrowing,240
+67,male,non-anginal pain,152,false,left ventricular hypertrophy,150,no,0.8,2,0,reversable defect,>50% diameter narrowing,212
+55,female,atypical angina,132,false,normal,166,no,1.2,1,0,normal,<50% diameter narrowing,342
+63,female,asymptomatic,124,false,normal,136,yes,0.0,2,0,normal,>50% diameter narrowing,197
+41,male,atypical angina,120,false,normal,182,no,0.0,1,0,normal,<50% diameter narrowing,157
+57,female,asymptomatic,140,false,normal,123,yes,0.2,2,0,reversable defect,>50% diameter narrowing,241
+45,male,typical angina,110,false,normal,132,no,1.2,2,0,reversable defect,>50% diameter narrowing,264
+57,female,atypical angina,130,false,left ventricular hypertrophy,174,no,0.0,2,1,normal,>50% diameter narrowing,236
+38,male,non-anginal pain,138,false,normal,173,no,0.0,1,?,normal,<50% diameter narrowing,175
